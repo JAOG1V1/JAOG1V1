@@ -21,7 +21,9 @@
 
 ## 🌀 Sobre mim
 
-<img align="right" src="./goku.gif" width="200">
+<table>
+<tr>
+<td width="65%">
 
 ```javascript
 const joaoGabriel = {
@@ -44,7 +46,14 @@ const joaoGabriel = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="35%" align="center">
+
+<img src="./goku.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
