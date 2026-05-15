@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/UnFx-k_lSckAAAAi/jujutsu-kaisen-gojo.gif" width="200">
+  <img src="./gojo.gif" width="250">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 🌀 Sobre mim
 
-<img align="right" src="https://media.tenor.com/uK-q-CSr5osAAAAi/dragon-ball-goku.gif" width="180">
+<img align="right" src="./goku.gif" width="200">
 
 ```javascript
 const joaoGabriel = {
@@ -145,7 +145,7 @@ const joaoGabriel = {
 
 ### 💭 "Stand proud, dev. You're strong." — adaptado de JJK
 
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/luffy-one-piece.gif" width="120">
+<img src="./luffy.gif" width="150">
 
 **⚡ Powered by energético, anime e madrugadas mal dormidas ⚡**
 
