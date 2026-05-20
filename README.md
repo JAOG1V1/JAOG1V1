@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Fortnite+nas+horas+vagas+%F0%9F%8F%86;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@
 + 💼 Profissão: Dev em formação 👨‍💻
 + 🎯 Foco atual: Front-end + Lógica de programação
 + 🌱 Aprendendo: HTML, CSS, JavaScript, Java, C++
++ 🏆 Game favorito: Fortnite (caçando Vitória Real!)
 + ⚡ Sonho: Virar dev profissional e criar projetos incríveis
 - ☕ Vício confirmado: Energético + madrugadas codando
 ```
@@ -48,6 +49,7 @@ const joaoGabriel = {
   status: "Dev em formação 👨‍💻",
   estudando: ["HTML", "CSS", "JavaScript", "Java", "C++"],
   vibe: "Otaku + Gamer + Codador",
+  gameFavorito: "🏆 Fortnite",
   animesFavoritos: [
     "🌀 Jujutsu Kaisen",
     "⚔️ Demon Slayer",
@@ -59,7 +61,8 @@ const joaoGabriel = {
   ],
   hobbies: [
     "💻 Codar até de madrugada",
-    "🎮 Jogar games",
+    "🏆 Jogar Fortnite com a galera",
+    "🎮 Outros games",
     "📺 Maratonar anime",
     "🎵 Ouvir música",
     "📚 Aprender coisas novas"
@@ -72,17 +75,34 @@ const joaoGabriel = {
 
 ---
 
+## 🏆 Sobre o Fortnite
+
+<div align="center">
+
+[![Fortnite](https://img.shields.io/badge/Fortnite-9D4DBB?style=for-the-badge&logo=epicgames&logoColor=white)](https://www.fortnite.com/)
+
+> 🎯 **Modo favorito:** Battle Royale  
+> 🔫 **Arma preferida:** A que aparecer na hora do desespero 😂  
+> 🪂 **Local de drop:** Onde dá pra fazer kill rápido  
+> 🏗️ **Estilo de jogo:** Builder / No-Build (depende do humor)  
+> 🏆 **Maior conquista:** Aquele clutch 1v4 que ninguém acredita  
+> 👥 **Como prefiro jogar:** Squad com a galera (mais diversão!)  
+
+</div>
+
+---
+
 ## ❤️ Coisas que eu AMO
 
 <div align="center">
 
 | 🎌 Animes | 🎮 Games | 🎵 Música | 🍕 Comidas |
 |:---------:|:--------:|:---------:|:----------:|
-| Jujutsu Kaisen | Free Fire | Funk | Pizza 🍕 |
-| One Piece | Minecraft | Trap | Hambúrguer 🍔 |
-| Demon Slayer | GTA | Lo-fi (pra codar) | Açaí 🍇 |
-| Dragon Ball | Roblox | Rock | X-tudo 🥪 |
-| Death Note | FIFA | Eletrônica | Sushi 🍣 |
+| Jujutsu Kaisen | **🏆 Fortnite** | Funk | Pizza 🍕 |
+| One Piece | Free Fire | Trap | Hambúrguer 🍔 |
+| Demon Slayer | Minecraft | Lo-fi (pra codar) | Açaí 🍇 |
+| Dragon Ball | GTA | Rock | X-tudo 🥪 |
+| Death Note | Roblox | Eletrônica | Sushi 🍣 |
 
 </div>
 
@@ -93,10 +113,11 @@ const joaoGabriel = {
 ```yaml
 - 🐛 Bugs que aparecem só em produção
 - 🌅 Acordar cedo
-- 📵 Internet lenta
+- 📵 Internet lenta (Fortnite com lag é dor no coração 💔)
 - 🥦 Comida saudável demais (sorry)
 - 😴 Aula chata
 - 🔇 Ficar sem música codando
+- 💀 Levar headshot no primeiro pouso do Fortnite
 ```
 
 ---
@@ -118,8 +139,9 @@ const joaoGabriel = {
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-### 💻 Sistema
+### 💻 Sistema & Games
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
 
 </div>
 
@@ -134,6 +156,7 @@ const joaoGabriel = {
 | ⚡ JavaScript | Aprendendo | `█████░░░░░` 50% |
 | ☕ Java | Iniciante | `███░░░░░░░` 30% |
 | 🔧 C++ | Iniciante | `██░░░░░░░░` 20% |
+| 🏆 Fortnite | Pro Player 😎 | `█████████░` 90% |
 
 </div>
 
@@ -150,6 +173,7 @@ const joaoGabriel = {
 🐙 **Perfil GitHub estilizado** — Esse aqui que você tá vendo! ✨  
 📚 **Aprendendo várias linguagens em paralelo** sem desistir  
 💪 **Consistência** — codando todo dia, mesmo cansado  
+🏆 **Várias Vitórias Reais no Fortnite** — Builder ou No-Build, tanto faz!  
 
 </div>
 
@@ -223,6 +247,7 @@ const joaoGabriel = {
 - 🎮 **Novos joguinhos em JS** — Pra treinar lógica
 - 📱 **Projetos responsivos** — Pra rodar em qualquer tela
 - 🧠 **Mais estudos em Java e C++** — Indo além do front
+- 🏆 **Quem sabe um fan-site do Fortnite?** 👀
 
 ---
 
@@ -234,6 +259,7 @@ const joaoGabriel = {
 [█████░░░░░░░░░░] 35% — Criar 5 projetos novos
 [████░░░░░░░░░░░] 25% — Aprender um framework (React?)
 [██░░░░░░░░░░░░░] 15% — Contribuir em projeto open source
+[███████░░░░░░░░] 45% — Conseguir mais Vitórias Reais no Fortnite 🏆
 ```
 
 ---
@@ -258,7 +284,7 @@ const joaoGabriel = {
 
 > 🎧 **Codando ao som de:** Funk, Trap e Lo-fi  
 > 🎬 **Maratonando:** Jujutsu Kaisen + Dandadan  
-> 🎮 **Jogando:** O que rolar com a galera  
+> 🏆 **Jogando:** Fortnite (caçando Vitória Real com a squad!)  
 
 </div>
 
@@ -271,6 +297,8 @@ const joaoGabriel = {
 🌙 Sou mais produtivo de **madrugada**  
 ☕ Energético é praticamente meu **sangue**  
 🎮 Já tentei criar um joguinho de RPG (deu ruim, mas foi divertido)  
+🏆 No **Fortnite**, sou daqueles que cai em local cheio só pra dar emoção 😎  
+🪂 Já dropei na **Torre Inclinada** (saudades) tantas vezes que dá pra fazer mapa  
 🦊 Acho que seria um **espírito amaldiçoado classe S** se fosse JJK  
 🍕 Pizza com borda de catupiry é **lei**  
 📺 Já assisti tantos animes que perdi a conta  
@@ -287,7 +315,7 @@ const joaoGabriel = {
 
 <img src="./luffy.gif" width="150">
 
-**⚡ Powered by energético, anime e madrugadas mal dormidas ⚡**
+**⚡ Powered by energético, anime, Fortnite e madrugadas mal dormidas ⚡**
 
 ### ⭐ Curtiu o perfil? Deixa uma estrelinha no repo!
 
