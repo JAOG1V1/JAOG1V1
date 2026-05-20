@@ -24,6 +24,7 @@
 
 <div align="center">
 
+
 ```diff
 + 🌟 Nome: João Gabriel
 + 🎮 Username: JAOG1V1
@@ -36,11 +37,14 @@
 - ☕ Vício confirmado: Energético + madrugadas codando
 ```
 
+
+
 </div>
 
 ---
 
 ## 🌀 Sobre mim
+
 
 ```javascript
 const joaoGabriel = {
@@ -72,6 +76,26 @@ const joaoGabriel = {
   metaDoMomento: "Construir meu primeiro site pessoal 🌐"
 };
 ```
+
+
+
+---
+
+## 🌾 Em foco agora — Agrinho 2026
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/🚧%20Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+[![Projeto](https://img.shields.io/badge/🎯%20Projeto-Agrinho%202026-43A047?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+[![Modalidade](https://img.shields.io/badge/🏆%20Modalidade-Front--end-BB86FC?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+
+</div>
+
+> 🌾 **Tô codando:** uma página web pro **[Concurso Agrinho 2026](https://www.sistemafaep.org.br/agrinho/)** (Sistema FAEP/SENAR-PR)  
+> 🏆 **Modalidade:** Front-end / Página da Web  
+> ⚔️ **Arsenal:** `HTML5` · `CSS3` · `JavaScript`  
+> 🎨 **Pilares:** design responsivo, acessibilidade e conteúdo educativo  
+> 🚧 **Status atual:** em fase de desenvolvimento — repo público em breve, fica ligado! 👀  
 
 ---
 
@@ -110,6 +134,7 @@ const joaoGabriel = {
 
 ## 😅 Coisas que eu NÃO curto
 
+
 ```yaml
 - 🐛 Bugs que aparecem só em produção
 - 🌅 Acordar cedo
@@ -119,6 +144,8 @@ const joaoGabriel = {
 - 🔇 Ficar sem música codando
 - 💀 Levar headshot no primeiro pouso do Fortnite
 ```
+
+
 
 ---
 
@@ -234,6 +261,7 @@ const joaoGabriel = {
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
+| 🌾 **Agrinho 2026** *(em desenvolvimento)* | Página web pro Concurso Agrinho 2026 | `HTML` `CSS` `JS` |
 | 🏜️ [**misterios-do-sertao**](https://github.com/JAOG1V1/misterios-do-sertao) | Aventura interativa no sertão brasileiro | `HTML` `CSS` `JS` |
 | 🌽 [**Site-O-Melhor-Bolo-de-Cenoura**](https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura) | Meu primeiro site do zero | `HTML` `CSS` |
 | 🏎️ [**RacingGame**](https://github.com/JAOG1V1/RacingGame) | Jogo de corrida em JavaScript | `JS` |
@@ -243,6 +271,7 @@ const joaoGabriel = {
 
 ### 🚀 O que vem por aí?
 
+- 🌾 **Agrinho 2026** — projeto front-end em desenvolvimento (em breve no GitHub!)
 - 🌐 **Site pessoal completo** — Falando tudo sobre mim
 - 🎮 **Novos joguinhos em JS** — Pra treinar lógica
 - 📱 **Projetos responsivos** — Pra rodar em qualquer tela
@@ -253,14 +282,17 @@ const joaoGabriel = {
 
 ## 🎯 Metas 2026
 
+
 ```progress
 [██████████░░░░░] 60% — Dominar JavaScript moderno
 [████████░░░░░░░] 50% — Lançar meu site pessoal
+[███████░░░░░░░░] 45% — Finalizar Agrinho 2026 🌾
 [█████░░░░░░░░░░] 35% — Criar 5 projetos novos
 [████░░░░░░░░░░░] 25% — Aprender um framework (React?)
 [██░░░░░░░░░░░░░] 15% — Contribuir em projeto open source
 [███████░░░░░░░░] 45% — Conseguir mais Vitórias Reais no Fortnite 🏆
 ```
+
 
 ---
 
