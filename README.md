@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=João%20Gabriel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end%20em%20Formação&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=João%20Gabriel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end%20em%20formação%20💻&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=800&height=55&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Apaixonado+por+web+e+novas+tecnologias;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=800&height=55&lines=Desenvolvedor+Front-end+em+formação+💻;Apaixonado+por+HTML%2C+CSS+e+JavaScript+🎨;Explorando+Java%2C+C%2B%2B+e+PowerShell+⚙️;Aprendendo+algo+novo+todos+os+dias+🚀" />
 </p>
 
 <p align="center">
@@ -71,12 +71,12 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 #### ⚙️ Linguagens & Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,powershell&theme=dark" />
 </a>
 
 #### 🧰 Ferramentas do dia a dia
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown,figma,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,markdown,figma,discord&theme=dark" />
 </a>
 
 #### 💻 Sistema
@@ -124,10 +124,10 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 <div align="center">
 
 <a href="https://github.com/JAOG1V1">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
 <a href="https://github.com/JAOG1V1">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&card_width=320" />
 </a>
 
 <br/><br/>
@@ -291,6 +291,6 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 ### ⭐ Se gostou do perfil, deixe uma estrela no repositório!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
 
 </div>
