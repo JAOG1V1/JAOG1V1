@@ -161,13 +161,39 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🌾 **Agrinho 2026** *(em desenvolvimento)* | Página web para o Concurso Agrinho 2026 | `HTML` `CSS` `JS` |
-| 🏜️ [**misterios-do-sertao**](https://github.com/JAOG1V1/misterios-do-sertao) | Aventura interativa no sertão brasileiro | `HTML` `CSS` `JS` |
-| 🌽 [**Site-O-Melhor-Bolo-de-Cenoura**](https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura) | Meu primeiro site desenvolvido do zero | `HTML` `CSS` |
-| 🏎️ [**RacingGame**](https://github.com/JAOG1V1/RacingGame) | Jogo de corrida em JavaScript | `JS` |
-| 🎬 [**cinefavoritos**](https://github.com/JAOG1V1/cinefavoritos) | Catálogo de filmes favoritos | `HTML` |
+<a href="https://github.com/JAOG1V1/misterios-do-sertao">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=misterios-do-sertao&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
+</a>
+<a href="https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=Site-O-Melhor-Bolo-de-Cenoura&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
+</a>
+
+<br/>
+
+<a href="https://github.com/JAOG1V1/RacingGame">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=RacingGame&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
+</a>
+<a href="https://github.com/JAOG1V1/cinefavoritos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=cinefavoritos&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="450">
+      <h3>🌾 Agrinho 2026</h3>
+      <p><i>Em desenvolvimento</i></p>
+      <p>Página web para o <a href="https://www.sistemafaep.org.br/agrinho/">Concurso Agrinho 2026</a><br/>(Sistema FAEP/SENAR-PR)</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
