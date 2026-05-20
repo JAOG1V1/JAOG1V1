@@ -122,17 +122,25 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 ## 📊 Estatísticas
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc" />
 
-<br/>
+<a href="https://github.com/JAOG1V1">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc&cache_seconds=86400" />
+</a>
+<a href="https://github.com/JAOG1V1">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&cache_seconds=86400" />
+</a>
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAOG1V1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=bb86fc&ring=bb86fc&fire=ff7eb6&currStreakLabel=bb86fc" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAOG1V1&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=bb86fc&line=bb86fc&point=ff7eb6&area=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAOG1V1&theme=tokyonight" />
 
 </div>
 
