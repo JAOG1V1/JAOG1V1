@@ -22,8 +22,9 @@
 
 ## 🎴 Card de Apresentação
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td>
 
 ```diff
 + 🌟 Nome: João Gabriel
@@ -37,9 +38,9 @@
 - ☕ Vício confirmado: Energético + madrugadas codando
 ```
 
-
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
