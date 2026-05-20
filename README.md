@@ -161,36 +161,46 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 <div align="center">
 
-<a href="https://github.com/JAOG1V1/misterios-do-sertao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=misterios-do-sertao&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
-</a>
-<a href="https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=Site-O-Melhor-Bolo-de-Cenoura&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
-</a>
-
-<br/>
-
-<a href="https://github.com/JAOG1V1/RacingGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=RacingGame&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
-</a>
-<a href="https://github.com/JAOG1V1/cinefavoritos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAOG1V1&repo=cinefavoritos&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
-</a>
-
-<br/><br/>
-
 <table>
   <tr>
-    <td align="center" width="450">
+    <td align="center" width="420">
       <h3>🌾 Agrinho 2026</h3>
       <p><i>Em desenvolvimento</i></p>
       <p>Página web para o <a href="https://www.sistemafaep.org.br/agrinho/">Concurso Agrinho 2026</a><br/>(Sistema FAEP/SENAR-PR)</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></p>
+      <p><img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41" /></p>
+    </td>
+    <td align="center" width="420">
+      <h3>🏜️ Mistérios do Sertão</h3>
+      <p><i>Aventura interativa</i></p>
+      <p>Uma aventura textual e interativa ambientada no sertão brasileiro.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></p>
+      <p><a href="https://github.com/JAOG1V1/misterios-do-sertao"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420">
+      <h3>🌽 O Melhor Bolo de Cenoura</h3>
+      <p><i>Primeiro site do zero</i></p>
+      <p>Meu primeiro projeto front-end desenvolvido do zero, com layout temático.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css&theme=dark" /></p>
+      <p><a href="https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td align="center" width="420">
+      <h3>🏎️ RacingGame</h3>
+      <p><i>Primeiro projeto em JS</i></p>
+      <p>Jogo de corrida desenvolvido com JavaScript puro para praticar lógica.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></p>
+      <p><a href="https://github.com/JAOG1V1/RacingGame"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420" colspan="2">
+      <h3>🎬 Cinefavoritos</h3>
+      <p><i>Catálogo pessoal</i></p>
+      <p>Catálogo dos meus filmes favoritos com layout simples e responsivo.</p>
+      <p><img src="https://skillicons.dev/icons?i=html&theme=dark" /></p>
+      <p><a href="https://github.com/JAOG1V1/cinefavoritos"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
     </td>
   </tr>
 </table>
