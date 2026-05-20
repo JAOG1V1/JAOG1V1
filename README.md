@@ -19,35 +19,6 @@
 
 ---
 
-## 🚧 EM BREVE: Meu site pessoal está chegando! 🚧
-
-<div align="center">
-
-![Em construção](https://img.shields.io/badge/STATUS-EM%20CONSTRU%C3%87%C3%83O-BB86FC?style=for-the-badge&logo=github&logoColor=white)
-![Coming Soon](https://img.shields.io/badge/COMING-SOON-ff7eb6?style=for-the-badge)
-
-</div>
-
-> 🌐 Estou desenvolvendo um **site pessoal** onde você vai poder conhecer mais sobre mim de um jeito completo e interativo! Fica ligado porque vem coisa boa por aí! 🚀
-
-### 🌟 O que você vai encontrar no site:
-
-- 🙋‍♂️ **Sobre mim** — Minha história, idade, de onde venho e pra onde quero ir
-- ❤️ **O que eu gosto** — Animes, games, músicas, comidas e tudo que me move
-- 😅 **O que eu NÃO gosto** — Porque sinceridade também faz parte
-- 🏆 **Minhas conquistas** — Marcos e vitórias da minha trajetória como dev
-- 💼 **Meus projetos** — Tudo que já codei e o que está por vir
-- 🎮 **Hobbies & curiosidades** — O lado divertido do JAOG1V1
-- 📫 **Contato direto** — Pra trocar uma ideia, parceria ou só dar um oi
-
-<div align="center">
-
-### 👀 Fique de olho! Dá uma ⭐ no repo pra acompanhar o lançamento!
-
-</div>
-
----
-
 ## 🌀 Sobre mim
 
 ```javascript
