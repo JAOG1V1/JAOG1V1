@@ -213,11 +213,24 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogabrielsabedra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAOG1V1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabrielsv2010)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Joaogabrielsv10)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joaogabrielsv2010)
+<a href="mailto:joaogabrielsabedra@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+</a>
+<a href="https://github.com/JAOG1V1">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/joaogabrielsv2010">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+</a>
+<a href="https://x.com/Joaogabrielsv10">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X (Twitter)" />
+</a>
+<a href="https://www.tiktok.com/@joaogabrielsv2010">
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="48" height="48" alt="TikTok" style="background:#1a1b27;padding:8px;border-radius:8px;" />
+</a>
+<a href="https://discord.com/users/JAOG1V1">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+</a>
 
 </div>
 
