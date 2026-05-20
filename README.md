@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
+<img src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/main/gojo.gif" width="220" alt="gojo" />
+
 ### Desenvolvedor Front-end em formação · Douradina, PR 🇧🇷
 
 [![GitHub followers](https://img.shields.io/github/followers/JAOG1V1?label=Followers&style=for-the-badge&color=BB86FC&labelColor=302D41)](https://github.com/JAOG1V1)
@@ -102,6 +104,8 @@ Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FA
 </div>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/main/luffy.gif" width="140" alt="luffy" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
