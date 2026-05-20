@@ -86,27 +86,17 @@ Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FA
 
 <div align="center">
 
-<!-- Badges estáveis: badgen.net + shields.io + komarev -->
+<!-- Apenas shields.io + komarev — 100% estáveis -->
 
-[![Repositórios públicos](https://badgen.net/github/repos/JAOG1V1?icon=github&label=Repos%20públicos&color=purple)](https://github.com/JAOG1V1?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/JAOG1V1?style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&label=Seguidores)](https://github.com/JAOG1V1)
-[![Stars](https://img.shields.io/github/stars/JAOG1V1?style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&label=Estrelas)](https://github.com/JAOG1V1)
+[![Repositórios](https://img.shields.io/badge/Ver%20repositórios-públicos-BB86FC?style=for-the-badge&labelColor=302D41&logo=github&logoColor=white)](https://github.com/JAOG1V1?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/JAOG1V1?style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&label=Seguidores)](https://github.com/JAOG1V1)
+[![Estrelas](https://img.shields.io/github/stars/JAOG1V1?style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&label=Estrelas)](https://github.com/JAOG1V1)
 
 <br/>
 
-[![Última atualização](https://img.shields.io/github/last-commit/JAOG1V1/JAOG1V1?style=for-the-badge&color=43A047&labelColor=302D41&logo=git&label=Último%20commit)](https://github.com/JAOG1V1/JAOG1V1/commits)
+[![Último commit](https://img.shields.io/github/last-commit/JAOG1V1/JAOG1V1?style=for-the-badge&color=43A047&labelColor=302D41&logo=git&logoColor=white&label=Último%20commit)](https://github.com/JAOG1V1/JAOG1V1/commits)
+[![Linguagem principal](https://img.shields.io/github/languages/top/JAOG1V1/JAOG1V1?style=for-the-badge&color=F7DF1E&labelColor=302D41&logo=javascript&logoColor=black)](https://github.com/JAOG1V1/JAOG1V1)
 [![Visitas](https://komarev.com/ghpvc/?username=JAOG1V1&style=for-the-badge&color=BB86FC&label=Visitas+no+perfil)](https://github.com/JAOG1V1)
-
-<br/><br/>
-
-<!-- Card com cache estendido (cache_seconds=86400 = 24h) para máxima estabilidade -->
-
-<a href="https://github.com/JAOG1V1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=ff7eb6&text_color=ffffff&cache_seconds=86400" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/JAOG1V1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff&cache_seconds=86400" alt="Linguagens mais usadas" />
-</a>
 
 </div>
 
