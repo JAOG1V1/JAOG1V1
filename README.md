@@ -10,6 +10,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/JAOG1V1?label=Stars&style=for-the-badge&color=ff7eb6&labelColor=302D41)](https://github.com/JAOG1V1)
 [![Profile views](https://komarev.com/ghpvc/?username=JAOG1V1&label=Profile+views&color=BB86FC&style=for-the-badge)](https://github.com/JAOG1V1)
 
+![Em foco](https://img.shields.io/badge/🎯%20Em%20foco%20agora-Agrinho%202026%20·%20Front--end-43A047?style=for-the-badge&labelColor=302D41)
+
 </div>
 
 ---
@@ -97,6 +99,18 @@ Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FA
 [![Último commit](https://img.shields.io/github/last-commit/JAOG1V1/JAOG1V1?style=for-the-badge&color=43A047&labelColor=302D41&logo=git&logoColor=white&label=Último%20commit)](https://github.com/JAOG1V1/JAOG1V1/commits)
 [![Linguagem principal](https://img.shields.io/github/languages/top/JAOG1V1/JAOG1V1?style=for-the-badge&color=F7DF1E&labelColor=302D41&logo=javascript&logoColor=black)](https://github.com/JAOG1V1/JAOG1V1)
 [![Visitas](https://komarev.com/ghpvc/?username=JAOG1V1&style=for-the-badge&color=BB86FC&label=Visitas+no+perfil)](https://github.com/JAOG1V1)
+
+</div>
+
+### 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation comendo meus contributions" src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
