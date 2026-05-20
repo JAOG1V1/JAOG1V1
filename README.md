@@ -149,14 +149,14 @@ const joaoGabriel = {
 
 <div align="center">
 
-| Tecnologia | Nível | Barra de progresso |
-|:----------:|:-----:|:-------------------|
-| 🌐 HTML | Intermediário | `████████░░` 80% |
-| 🎨 CSS | Intermediário | `███████░░░` 70% |
-| ⚡ JavaScript | Aprendendo | `█████░░░░░` 50% |
-| ☕ Java | Iniciante | `███░░░░░░░` 30% |
-| 🔧 C++ | Iniciante | `██░░░░░░░░` 20% |
-| 🏆 Fortnite | Pro Player 😎 | `█████████░` 90% |
+| Tecnologia | Nível | Progresso |
+|:----------:|:-----:|:---------:|
+| 🌐 HTML | Intermediário | ![80%](https://geps.dev/progress/80?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
+| 🎨 CSS | Intermediário | ![70%](https://geps.dev/progress/70?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
+| ⚡ JavaScript | Aprendendo | ![50%](https://geps.dev/progress/50?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
+| ☕ Java | Iniciante | ![30%](https://geps.dev/progress/30?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
+| 🔧 C++ | Iniciante | ![20%](https://geps.dev/progress/20?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
+| 🏆 Fortnite | Pro Player 😎 | ![90%](https://geps.dev/progress/90?dangerColor=ff7eb6&warningColor=ffb86c&successColor=bb86fc) |
 
 </div>
 
@@ -253,14 +253,18 @@ const joaoGabriel = {
 
 ## 🎯 Metas 2026
 
-```progress
-[██████████░░░░░] 60% — Dominar JavaScript moderno
-[████████░░░░░░░] 50% — Lançar meu site pessoal
-[█████░░░░░░░░░░] 35% — Criar 5 projetos novos
-[████░░░░░░░░░░░] 25% — Aprender um framework (React?)
-[██░░░░░░░░░░░░░] 15% — Contribuir em projeto open source
-[███████░░░░░░░░] 45% — Conseguir mais Vitórias Reais no Fortnite 🏆
-```
+<div align="center">
+
+| Meta | Progresso |
+|:-----|:---------:|
+| 💻 Dominar JavaScript moderno | ![60%](https://geps.dev/progress/60?successColor=bb86fc) |
+| 🌐 Lançar meu site pessoal | ![50%](https://geps.dev/progress/50?successColor=bb86fc) |
+| 🚀 Criar 5 projetos novos | ![35%](https://geps.dev/progress/35?successColor=bb86fc) |
+| ⚛️ Aprender um framework (React?) | ![25%](https://geps.dev/progress/25?successColor=bb86fc) |
+| 🌟 Contribuir em projeto open source | ![15%](https://geps.dev/progress/15?successColor=bb86fc) |
+| 🏆 Mais Vitórias Reais no Fortnite | ![45%](https://geps.dev/progress/45?successColor=bb86fc) |
+
+</div>
 
 ---
 
