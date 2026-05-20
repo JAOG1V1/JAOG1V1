@@ -1,135 +1,324 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=João%20Gabriel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%7C%20Otaku%20%7C%20Gamer&descAlignY=58&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</div>
 
-<img src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/main/gojo.gif" width="220" alt="gojo" />
+<p align="center">
+  <img src="./gojo.gif" width="250">
+</p>
 
-### Desenvolvedor Front-end em formação · Douradina, PR 🇧🇷
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=800&height=55&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Fortnite+nas+horas+vagas+%F0%9F%8F%86;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/JAOG1V1?label=Followers&style=for-the-badge&color=BB86FC&labelColor=302D41)](https://github.com/JAOG1V1)
-[![GitHub stars](https://img.shields.io/github/stars/JAOG1V1?label=Stars&style=for-the-badge&color=ff7eb6&labelColor=302D41)](https://github.com/JAOG1V1)
-[![Profile views](https://komarev.com/ghpvc/?username=JAOG1V1&label=Profile+views&color=BB86FC&style=for-the-badge)](https://github.com/JAOG1V1)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JAOG1V1&label=Visitas+no+perfil&color=BB86FC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
+  <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41" />
+</p>
 
-[![Em foco](https://img.shields.io/badge/🎯%20Em%20foco%20agora-Agrinho%202026%20·%20Front--end-43A047?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+---
+
+## 🎴 Card de Apresentação
+
+<div align="center">
+
+```diff
++ 🌟 Nome: João Gabriel
++ 🎮 Username: JAOG1V1
++ 📍 De onde: Douradina - Paraná, Brasil 🇧🇷
++ 💼 Profissão: Dev em formação 👨‍💻
++ 🎯 Foco atual: Front-end + Lógica de programação
++ 🌱 Aprendendo: HTML, CSS, JavaScript, Java, C++
++ 🏆 Game favorito: Fortnite (caçando Vitória Real!)
++ ⚡ Sonho: Virar dev profissional e criar projetos incríveis
+- ☕ Vício confirmado: Energético + madrugadas codando
+```
 
 </div>
 
 ---
 
-## 👋 Sobre
+## 🌀 Sobre mim
 
-Estudante de desenvolvimento web com foco em **Front-end**. Atualmente aprimorando **HTML5, CSS3 e JavaScript** por meio de projetos práticos, com interesse crescente em **design responsivo**, **acessibilidade** e **boas práticas de código**.
-
-Em paralelo, estudo fundamentos de **Java** e **C++** para fortalecer minha base em lógica de programação e algoritmos.
+```javascript
+const joaoGabriel = {
+  apelido: "JAOG1V1",
+  localizacao: "Douradina, PR 🇧🇷",
+  status: "Dev em formação 👨‍💻",
+  estudando: ["HTML", "CSS", "JavaScript", "Java", "C++"],
+  vibe: "Otaku + Gamer + Codador",
+  gameFavorito: "🏆 Fortnite",
+  animesFavoritos: [
+    "🌀 Jujutsu Kaisen",
+    "⚔️ Demon Slayer",
+    "🐉 Dragon Ball",
+    "🏴‍☠️ One Piece",
+    "👊 One Punch Man",
+    "📓 Death Note",
+    "👻 Dandadan"
+  ],
+  hobbies: [
+    "💻 Codar até de madrugada",
+    "🏆 Jogar Fortnite com a galera",
+    "🎮 Outros games",
+    "📺 Maratonar anime",
+    "🎵 Ouvir música",
+    "📚 Aprender coisas novas"
+  ],
+  combustivel: "⚡ Energético",
+  filosofia: "Errar é commit, aprender é push 🚀",
+  metaDoMomento: "Construir meu primeiro site pessoal 🌐"
+};
+```
 
 ---
 
-## 🌾 Projeto atual — Agrinho 2026
-
-Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FAEP/SENAR-PR), na modalidade **Front-end / Página da Web**.
-
-- **Stack:** `HTML5` · `CSS3` · `JavaScript`
-- **Pilares:** design responsivo, acessibilidade e conteúdo educativo
-- **Status:** em desenvolvimento
-
----
-
-## 🛠️ Stack
+## 🏆 Sobre o Fortnite
 
 <div align="center">
 
+[![Fortnite](https://img.shields.io/badge/Fortnite-9D4DBB?style=for-the-badge&logo=epicgames&logoColor=white)](https://www.fortnite.com/)
+
+> 🎯 **Modo favorito:** Battle Royale  
+> 🔫 **Arma preferida:** A que aparecer na hora do desespero 😂  
+> 🪂 **Local de drop:** Onde dá pra fazer kill rápido  
+> 🏗️ **Estilo de jogo:** Builder / No-Build (depende do humor)  
+> 🏆 **Maior conquista:** Aquele clutch 1v4 que ninguém acredita  
+> 👥 **Como prefiro jogar:** Squad com a galera (mais diversão!)  
+
+</div>
+
+---
+
+## ❤️ Coisas que eu AMO
+
+<div align="center">
+
+| 🎌 Animes | 🎮 Games | 🎵 Música | 🍕 Comidas |
+|:---------:|:--------:|:---------:|:----------:|
+| Jujutsu Kaisen | **🏆 Fortnite** | Funk | Pizza 🍕 |
+| One Piece | Free Fire | Trap | Hambúrguer 🍔 |
+| Demon Slayer | Minecraft | Lo-fi (pra codar) | Açaí 🍇 |
+| Dragon Ball | GTA | Rock | X-tudo 🥪 |
+| Death Note | Roblox | Eletrônica | Sushi 🍣 |
+
+</div>
+
+---
+
+## 😅 Coisas que eu NÃO curto
+
+```yaml
+- 🐛 Bugs que aparecem só em produção
+- 🌅 Acordar cedo
+- 📵 Internet lenta (Fortnite com lag é dor no coração 💔)
+- 🥦 Comida saudável demais (sorry)
+- 😴 Aula chata
+- 🔇 Ficar sem música codando
+- 💀 Levar headshot no primeiro pouso do Fortnite
+```
+
+---
+
+## ⚔️ Arsenal de Combate (Stack)
+
+<div align="center">
+
+### 💻 Linguagens
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
+### 🛠️ Ferramentas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+### 💻 Sistema & Games
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
 
 </div>
 
-> Os níveis de proficiência refletem o estágio real de aprendizado — em constante evolução por meio de prática e estudo.
-
-| Tecnologia | Nível |
-|:-----------|:------|
-| HTML       | Intermediário |
-| CSS        | Intermediário |
-| JavaScript | Em aprendizado |
-| Java       | Iniciante |
-| C++        | Iniciante |
-
----
-
-## 📂 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🌾 **Agrinho 2026** *(em breve)* | Página web para o concurso Agrinho 2026 | `HTML` `CSS` `JS` |
-| 🏜️ [misterios-do-sertao](https://github.com/JAOG1V1/misterios-do-sertao) | Página interativa com temática regional | `HTML` `CSS` `JS` |
-| 🌽 [Site-O-Melhor-Bolo-de-Cenoura](https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura) | Primeiro site desenvolvido do zero | `HTML` `CSS` |
-| 🏎️ [RacingGame](https://github.com/JAOG1V1/RacingGame) | Mini-jogo de corrida em JavaScript | `JS` |
-| 🎬 [cinefavoritos](https://github.com/JAOG1V1/cinefavoritos) | Catálogo simples de filmes | `HTML` |
-
----
-
-## 🎯 Objetivos de aprendizado
-
-- Aprofundar conhecimento em **JavaScript moderno** (ES6+)
-- Praticar **HTML semântico** e **CSS responsivo**
-- Estudar fundamentos de um **framework front-end** (React)
-- Reforçar lógica de programação com **Java** e **C++**
-- Contribuir em projetos **open source**
-
----
-
-## 📊 Estatísticas
+### 📈 Meu nível em cada tech
 
 <div align="center">
 
-<!-- Apenas shields.io + komarev — 100% estáveis -->
+| Tecnologia | Nível | Barra de progresso |
+|:----------:|:-----:|:-------------------|
+| 🌐 HTML | Intermediário | `████████░░` 80% |
+| 🎨 CSS | Intermediário | `███████░░░` 70% |
+| ⚡ JavaScript | Aprendendo | `█████░░░░░` 50% |
+| ☕ Java | Iniciante | `███░░░░░░░` 30% |
+| 🔧 C++ | Iniciante | `██░░░░░░░░` 20% |
+| 🏆 Fortnite | Pro Player 😎 | `█████████░` 90% |
 
-[![Repositórios](https://img.shields.io/badge/Ver%20repositórios-públicos-BB86FC?style=for-the-badge&labelColor=302D41&logo=github&logoColor=white)](https://github.com/JAOG1V1?tab=repositories)
-[![Seguidores](https://img.shields.io/github/followers/JAOG1V1?style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&label=Seguidores)](https://github.com/JAOG1V1)
-[![Estrelas](https://img.shields.io/github/stars/JAOG1V1?style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&label=Estrelas)](https://github.com/JAOG1V1)
+</div>
+
+---
+
+## 🏆 Minhas Conquistas
+
+<div align="center">
+
+🎯 **Primeiro site criado do zero** — O Melhor Bolo de Cenoura 🌽  
+🎮 **Primeiro joguinho em JS** — RacingGame 🏎️  
+🏜️ **Projeto interativo** — Mistérios do Sertão  
+🎬 **Catálogo pessoal** — Cinefavoritos  
+🐙 **Perfil GitHub estilizado** — Esse aqui que você tá vendo! ✨  
+📚 **Aprendendo várias linguagens em paralelo** sem desistir  
+💪 **Consistência** — codando todo dia, mesmo cansado  
+🏆 **Várias Vitórias Reais no Fortnite** — Builder ou No-Build, tanto faz!  
+
+</div>
+
+---
+
+## 📜 Citação do dia
+
+<div align="center">
+  
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 Estatísticas Ninja
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=bb86fc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc" />
 
 <br/>
 
-[![Último commit](https://img.shields.io/github/last-commit/JAOG1V1/JAOG1V1?style=for-the-badge&color=43A047&labelColor=302D41&logo=git&logoColor=white&label=Último%20commit)](https://github.com/JAOG1V1/JAOG1V1/commits)
-[![Linguagem principal](https://img.shields.io/github/languages/top/JAOG1V1/JAOG1V1?style=for-the-badge&color=F7DF1E&labelColor=302D41&logo=javascript&logoColor=black)](https://github.com/JAOG1V1/JAOG1V1)
-[![Visitas](https://komarev.com/ghpvc/?username=JAOG1V1&style=for-the-badge&color=BB86FC&label=Visitas+no+perfil)](https://github.com/JAOG1V1)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAOG1V1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=bb86fc&ring=bb86fc&fire=ff7eb6&currStreakLabel=bb86fc" />
 
-</div>
+<br/><br/>
 
-### 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation comendo meus contributions" src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAOG1V1&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=bb86fc&line=bb86fc&point=ff7eb6&area=true" />
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🏆 Troféus desbloqueados
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogabrielsabedra@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAOG1V1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabrielsv2010)
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=JAOG1V1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
 
 </div>
 
+---
+
+## 🐍 Snake comendo meus commits
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎮 Projetos em destaque
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JAOG1V1/JAOG1V1/main/luffy.gif" width="140" alt="luffy" />
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| 🏜️ [**misterios-do-sertao**](https://github.com/JAOG1V1/misterios-do-sertao) | Aventura interativa no sertão brasileiro | `HTML` `CSS` `JS` |
+| 🌽 [**Site-O-Melhor-Bolo-de-Cenoura**](https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura) | Meu primeiro site do zero | `HTML` `CSS` |
+| 🏎️ [**RacingGame**](https://github.com/JAOG1V1/RacingGame) | Jogo de corrida em JavaScript | `JS` |
+| 🎬 [**cinefavoritos**](https://github.com/JAOG1V1/cinefavoritos) | Catálogo dos meus filmes favoritos | `HTML` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
+
+### 🚀 O que vem por aí?
+
+- 🌐 **Site pessoal completo** — Falando tudo sobre mim
+- 🎮 **Novos joguinhos em JS** — Pra treinar lógica
+- 📱 **Projetos responsivos** — Pra rodar em qualquer tela
+- 🧠 **Mais estudos em Java e C++** — Indo além do front
+- 🏆 **Quem sabe um fan-site do Fortnite?** 👀
+
+---
+
+## 🎯 Metas 2026
+
+```progress
+[██████████░░░░░] 60% — Dominar JavaScript moderno
+[████████░░░░░░░] 50% — Lançar meu site pessoal
+[█████░░░░░░░░░░] 35% — Criar 5 projetos novos
+[████░░░░░░░░░░░] 25% — Aprender um framework (React?)
+[██░░░░░░░░░░░░░] 15% — Contribuir em projeto open source
+[███████░░░░░░░░] 45% — Conseguir mais Vitórias Reais no Fortnite 🏆
+```
+
+---
+
+## 🌐 Me acha por aí
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabrielsv2010)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joaogabrielsv2010)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Joaogabrielsv10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogabrielsabedra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAOG1V1)
+
+</div>
+
+---
+
+## 🎵 Soundtrack do momento
+
+<div align="center">
+
+> 🎧 **Codando ao som de:** Funk, Trap e Lo-fi  
+> 🎬 **Maratonando:** Jujutsu Kaisen + Dandadan  
+> 🏆 **Jogando:** Fortnite (caçando Vitória Real com a squad!)  
+
+</div>
+
+---
+
+## 💡 Curiosidades sobre mim
+
+<div align="center">
+
+🌙 Sou mais produtivo de **madrugada**  
+☕ Energético é praticamente meu **sangue**  
+🎮 Já tentei criar um joguinho de RPG (deu ruim, mas foi divertido)  
+🏆 No **Fortnite**, sou daqueles que cai em local cheio só pra dar emoção 😎  
+🪂 Já dropei na **Torre Inclinada** (saudades) tantas vezes que dá pra fazer mapa  
+🦊 Acho que seria um **espírito amaldiçoado classe S** se fosse JJK  
+🍕 Pizza com borda de catupiry é **lei**  
+📺 Já assisti tantos animes que perdi a conta  
+💻 Aprendi HTML antes mesmo de saber o que era "tag"  
+🔥 Meu sonho é trabalhar com **desenvolvimento de jogos** um dia  
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Stand proud, dev. You're strong." — adaptado de JJK
+
+<img src="./luffy.gif" width="150">
+
+**⚡ Powered by energético, anime, Fortnite e madrugadas mal dormidas ⚡**
+
+### ⭐ Curtiu o perfil? Deixa uma estrelinha no repo!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
 
 </div>
