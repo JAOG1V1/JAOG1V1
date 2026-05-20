@@ -86,9 +86,9 @@ Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FA
 
 <div align="center">
 
-<!-- Badges do shields.io: 100% estáveis, sempre carregam -->
+<!-- Badges estáveis: badgen.net + shields.io + komarev -->
 
-[![Public repos](https://img.shields.io/github/search/JAOG1V1/JAOG1V1?query=type%3Apublic&label=Repositórios%20públicos&style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github)](https://github.com/JAOG1V1?tab=repositories)
+[![Repositórios públicos](https://badgen.net/github/repos/JAOG1V1?icon=github&label=Repos%20públicos&color=purple)](https://github.com/JAOG1V1?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/JAOG1V1?style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&label=Seguidores)](https://github.com/JAOG1V1)
 [![Stars](https://img.shields.io/github/stars/JAOG1V1?style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&label=Estrelas)](https://github.com/JAOG1V1)
 
