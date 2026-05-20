@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/JAOG1V1?label=Stars&style=for-the-badge&color=ff7eb6&labelColor=302D41)](https://github.com/JAOG1V1)
 [![Profile views](https://komarev.com/ghpvc/?username=JAOG1V1&label=Profile+views&color=BB86FC&style=for-the-badge)](https://github.com/JAOG1V1)
 
-![Em foco](https://img.shields.io/badge/🎯%20Em%20foco%20agora-Agrinho%202026%20·%20Front--end-43A047?style=for-the-badge&labelColor=302D41)
+[![Em foco](https://img.shields.io/badge/🎯%20Em%20foco%20agora-Agrinho%202026%20·%20Front--end-43A047?style=for-the-badge&labelColor=302D41)](https://www.agrinho.com.br/)
 
 </div>
 
