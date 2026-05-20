@@ -176,14 +176,14 @@ const joaoGabriel = {
 
 <div align="center">
 
-| Tecnologia | Nível | Barra de progresso |
-|:----------:|:-----:|:-------------------|
-| 🌐 HTML | Intermediário | `████████░░` 80% |
-| 🎨 CSS | Intermediário | `███████░░░` 70% |
-| ⚡ JavaScript | Aprendendo | `█████░░░░░` 50% |
-| ☕ Java | Iniciante | `███░░░░░░░` 30% |
-| 🔧 C++ | Iniciante | `██░░░░░░░░` 20% |
-| 🏆 Fortnite | Pro Player 😎 | `█████████░` 90% |
+| Tecnologia | Nível | Progresso |
+|:----------:|:-----:|:---------:|
+| 🌐 HTML | Intermediário | ![80%](https://img.shields.io/badge/80%25-BB86FC?style=for-the-badge&labelColor=302D41) |
+| 🎨 CSS | Intermediário | ![70%](https://img.shields.io/badge/70%25-BB86FC?style=for-the-badge&labelColor=302D41) |
+| ⚡ JavaScript | Aprendendo | ![50%](https://img.shields.io/badge/50%25-43A047?style=for-the-badge&labelColor=302D41) |
+| ☕ Java | Iniciante | ![30%](https://img.shields.io/badge/30%25-FFA500?style=for-the-badge&labelColor=302D41) |
+| 🔧 C++ | Iniciante | ![20%](https://img.shields.io/badge/20%25-FFA500?style=for-the-badge&labelColor=302D41) |
+| 🏆 Fortnite | Pro Player 😎 | ![90%](https://img.shields.io/badge/90%25-ff7eb6?style=for-the-badge&labelColor=302D41) |
 
 </div>
 
@@ -282,16 +282,19 @@ const joaoGabriel = {
 
 ## 🎯 Metas 2026
 
+<div align="center">
 
-```progress
-[██████████░░░░░] 60% — Dominar JavaScript moderno
-[████████░░░░░░░] 50% — Lançar meu site pessoal
-[███████░░░░░░░░] 45% — Finalizar Agrinho 2026 🌾
-[█████░░░░░░░░░░] 35% — Criar 5 projetos novos
-[████░░░░░░░░░░░] 25% — Aprender um framework (React?)
-[██░░░░░░░░░░░░░] 15% — Contribuir em projeto open source
-[███████░░░░░░░░] 45% — Conseguir mais Vitórias Reais no Fortnite 🏆
-```
+| Meta | Progresso |
+|:-----|:---------:|
+| 🟢 **Dominar JavaScript moderno** | ![60%](https://img.shields.io/badge/60%25-BB86FC?style=for-the-badge&labelColor=302D41) |
+| 🌐 **Lançar meu site pessoal** | ![50%](https://img.shields.io/badge/50%25-BB86FC?style=for-the-badge&labelColor=302D41) |
+| 🌾 **Finalizar Agrinho 2026** | ![45%](https://img.shields.io/badge/45%25-43A047?style=for-the-badge&labelColor=302D41) |
+| 🚀 **Criar 5 projetos novos** | ![35%](https://img.shields.io/badge/35%25-43A047?style=for-the-badge&labelColor=302D41) |
+| ⚛️ **Aprender um framework (React?)** | ![25%](https://img.shields.io/badge/25%25-FFA500?style=for-the-badge&labelColor=302D41) |
+| 🤝 **Contribuir em projeto open source** | ![15%](https://img.shields.io/badge/15%25-FFA500?style=for-the-badge&labelColor=302D41) |
+| 🏆 **Mais Vitórias Reais no Fortnite** | ![45%](https://img.shields.io/badge/45%25-43A047?style=for-the-badge&labelColor=302D41) |
+
+</div>
 
 
 ---
