@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=800&height=55&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Fortnite+nas+horas+vagas+%F0%9F%8F%86;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=800&height=55&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Foco+total+no+Agrinho+2026+%F0%9F%8C%BE;Front-end+%C3%A9+meu+caminho+%F0%9F%9A%80;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Fortnite+nas+horas+vagas+%F0%9F%8F%86;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
 </p>
 
 <p align="center">
@@ -17,6 +17,51 @@
   <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
   <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41" />
 </p>
+
+---
+
+## 🌾 FOCO ATUAL: Agrinho 2026 — Front-end 🚀
+
+<div align="center">
+
+[![Agrinho 2026](https://img.shields.io/badge/AGRINHO_2026-Front--end-43A047?style=for-the-badge&logo=html5&logoColor=white&labelColor=2E7D32)](https://www.sistemafaep.org.br/agrinho/)
+[![Status](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-FFD600?style=for-the-badge&labelColor=302D41)](#)
+
+</div>
+
+> 🎯 No momento estou com **foco total** no **Concurso Agrinho 2026**, competindo na modalidade **Front-end / Página da Web**! 🌱💻
+
+<div align="center">
+
+| 📌 Item | 📝 Detalhes |
+|:-------:|:-----------|
+| 🏆 **Competição** | Agrinho 2026 (Sistema FAEP/SENAR-PR) |
+| 💼 **Modalidade** | Front-end / Página da Web |
+| 🛠️ **Tecnologias** | `HTML5` `CSS3` `JavaScript` |
+| 🎨 **Foco** | Design responsivo + Acessibilidade + Conteúdo educativo |
+| 🌱 **Tema** | Conscientização e educação no campo |
+| 🚧 **Status** | Em desenvolvimento intenso 🔥 |
+
+</div>
+
+```progress
+🌾 Agrinho 2026 — Front-end
+```
+
+<div align="center">
+
+![Progresso Agrinho](https://geps.dev/progress/40?successColor=43A047) **40% concluído** — Bora pra cima! 💪
+
+### 🎯 Etapas do projeto:
+✅ Definir o tema e estrutura  
+✅ Esboçar layout (wireframe)  
+🔄 Desenvolvendo HTML semântico  
+🔄 Estilizando com CSS  
+⏳ Adicionar interatividade com JavaScript  
+⏳ Testes de responsividade  
+⏳ Entrega final 🏆  
+
+</div>
 
 ---
 
@@ -29,7 +74,7 @@
 + 🎮 Username: JAOG1V1
 + 📍 De onde: Douradina - Paraná, Brasil 🇧🇷
 + 💼 Profissão: Dev em formação 👨‍💻
-+ 🎯 Foco atual: Front-end + Lógica de programação
++ 🎯 Foco atual: Agrinho 2026 — Front-end 🌾
 + 🌱 Aprendendo: HTML, CSS, JavaScript, Java, C++
 + 🏆 Game favorito: Fortnite (caçando Vitória Real!)
 + ⚡ Sonho: Virar dev profissional e criar projetos incríveis
@@ -47,6 +92,7 @@ const joaoGabriel = {
   apelido: "JAOG1V1",
   localizacao: "Douradina, PR 🇧🇷",
   status: "Dev em formação 👨‍💻",
+  focoAtual: "🌾 Agrinho 2026 — Front-end",
   estudando: ["HTML", "CSS", "JavaScript", "Java", "C++"],
   vibe: "Otaku + Gamer + Codador",
   gameFavorito: "🏆 Fortnite",
@@ -69,7 +115,7 @@ const joaoGabriel = {
   ],
   combustivel: "⚡ Energético",
   filosofia: "Errar é commit, aprender é push 🚀",
-  metaDoMomento: "Construir meu primeiro site pessoal 🌐"
+  metaDoMomento: "🌾 Mandar bem no Agrinho 2026!"
 };
 ```
 
@@ -173,6 +219,7 @@ const joaoGabriel = {
 🐙 **Perfil GitHub estilizado** — Esse aqui que você tá vendo! ✨  
 📚 **Aprendendo várias linguagens em paralelo** sem desistir  
 💪 **Consistência** — codando todo dia, mesmo cansado  
+🌾 **Encarando o Agrinho 2026** — Front-end na veia!  
 🏆 **Várias Vitórias Reais no Fortnite** — Builder ou No-Build, tanto faz!  
 
 </div>
@@ -234,6 +281,7 @@ const joaoGabriel = {
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
+| 🌾 **Agrinho 2026** *(em breve)* | Página web pro concurso Agrinho 2026 | `HTML` `CSS` `JS` |
 | 🏜️ [**misterios-do-sertao**](https://github.com/JAOG1V1/misterios-do-sertao) | Aventura interativa no sertão brasileiro | `HTML` `CSS` `JS` |
 | 🌽 [**Site-O-Melhor-Bolo-de-Cenoura**](https://github.com/JAOG1V1/Site-O-Melhor-Bolo-de-Cenoura) | Meu primeiro site do zero | `HTML` `CSS` |
 | 🏎️ [**RacingGame**](https://github.com/JAOG1V1/RacingGame) | Jogo de corrida em JavaScript | `JS` |
@@ -243,6 +291,7 @@ const joaoGabriel = {
 
 ### 🚀 O que vem por aí?
 
+- 🌾 **Projeto Agrinho 2026** — Foco principal do momento!
 - 🌐 **Site pessoal completo** — Falando tudo sobre mim
 - 🎮 **Novos joguinhos em JS** — Pra treinar lógica
 - 📱 **Projetos responsivos** — Pra rodar em qualquer tela
@@ -257,6 +306,7 @@ const joaoGabriel = {
 
 | Meta | Progresso |
 |:-----|:---------:|
+| 🌾 **Arrasar no Agrinho 2026 (Front-end)** | ![40%](https://geps.dev/progress/40?successColor=43A047) |
 | 💻 Dominar JavaScript moderno | ![60%](https://geps.dev/progress/60?successColor=bb86fc) |
 | 🌐 Lançar meu site pessoal | ![50%](https://geps.dev/progress/50?successColor=bb86fc) |
 | 🚀 Criar 5 projetos novos | ![35%](https://geps.dev/progress/35?successColor=bb86fc) |
@@ -288,6 +338,7 @@ const joaoGabriel = {
 
 > 🎧 **Codando ao som de:** Funk, Trap e Lo-fi  
 > 🎬 **Maratonando:** Jujutsu Kaisen + Dandadan  
+> 🌾 **Codando pra:** Agrinho 2026 — Front-end!  
 > 🏆 **Jogando:** Fortnite (caçando Vitória Real com a squad!)  
 
 </div>
@@ -300,6 +351,7 @@ const joaoGabriel = {
 
 🌙 Sou mais produtivo de **madrugada**  
 ☕ Energético é praticamente meu **sangue**  
+🌾 Tô focadão no **Agrinho 2026** — front-end na veia!  
 🎮 Já tentei criar um joguinho de RPG (deu ruim, mas foi divertido)  
 🏆 No **Fortnite**, sou daqueles que cai em local cheio só pra dar emoção 😎  
 🪂 Já dropei na **Torre Inclinada** (saudades) tantas vezes que dá pra fazer mapa  
@@ -319,7 +371,7 @@ const joaoGabriel = {
 
 <img src="./luffy.gif" width="150">
 
-**⚡ Powered by energético, anime, Fortnite e madrugadas mal dormidas ⚡**
+**⚡ Powered by energético, anime, Fortnite, Agrinho 2026 e madrugadas mal dormidas ⚡**
 
 ### ⭐ Curtiu o perfil? Deixa uma estrelinha no repo!
 
