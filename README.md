@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+e+anime+em+c%C3%B3digo+%E2%98%95;Fortnite+nas+horas+vagas+%F0%9F%8F%86;Bem-vindo+ao+meu+universo!+%F0%9F%8C%8C" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAOG1V1&label=Visitas+no+perfil&color=BB86FC&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
