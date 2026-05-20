@@ -86,8 +86,27 @@ Estou desenvolvendo uma página web para o **Concurso Agrinho 2026** (Sistema FA
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc" />
+<!-- Badges do shields.io: 100% estáveis, sempre carregam -->
+
+[![Public repos](https://img.shields.io/github/search/JAOG1V1/JAOG1V1?query=type%3Apublic&label=Repositórios%20públicos&style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github)](https://github.com/JAOG1V1?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/JAOG1V1?style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&label=Seguidores)](https://github.com/JAOG1V1)
+[![Stars](https://img.shields.io/github/stars/JAOG1V1?style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&label=Estrelas)](https://github.com/JAOG1V1)
+
+<br/>
+
+[![Última atualização](https://img.shields.io/github/last-commit/JAOG1V1/JAOG1V1?style=for-the-badge&color=43A047&labelColor=302D41&logo=git&label=Último%20commit)](https://github.com/JAOG1V1/JAOG1V1/commits)
+[![Visitas](https://komarev.com/ghpvc/?username=JAOG1V1&style=for-the-badge&color=BB86FC&label=Visitas+no+perfil)](https://github.com/JAOG1V1)
+
+<br/><br/>
+
+<!-- Card com cache estendido (cache_seconds=86400 = 24h) para máxima estabilidade -->
+
+<a href="https://github.com/JAOG1V1">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JAOG1V1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=bb86fc&icon_color=ff7eb6&text_color=ffffff&cache_seconds=86400" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/JAOG1V1">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAOG1V1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff&cache_seconds=86400" alt="Linguagens mais usadas" />
+</a>
 
 </div>
 
