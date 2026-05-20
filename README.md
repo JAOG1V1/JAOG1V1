@@ -14,8 +14,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAOG1V1&label=Visitas+no+perfil&color=BB86FC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
-  <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41" />
+  <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&logoColor=white&cacheSeconds=3600" />
+  <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&logoColor=white&cacheSeconds=3600" />
 </p>
 
 ---
