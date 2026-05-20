@@ -178,12 +178,12 @@ const joaoGabriel = {
 
 | Tecnologia | Nível | Progresso |
 |:----------:|:-----:|:---------:|
-| 🌐 HTML | Intermediário | ![80%](https://img.shields.io/badge/80%25-BB86FC?style=for-the-badge&labelColor=302D41) |
-| 🎨 CSS | Intermediário | ![70%](https://img.shields.io/badge/70%25-BB86FC?style=for-the-badge&labelColor=302D41) |
-| ⚡ JavaScript | Aprendendo | ![50%](https://img.shields.io/badge/50%25-43A047?style=for-the-badge&labelColor=302D41) |
-| ☕ Java | Iniciante | ![30%](https://img.shields.io/badge/30%25-FFA500?style=for-the-badge&labelColor=302D41) |
-| 🔧 C++ | Iniciante | ![20%](https://img.shields.io/badge/20%25-FFA500?style=for-the-badge&labelColor=302D41) |
-| 🏆 Fortnite | Pro Player 😎 | ![90%](https://img.shields.io/badge/90%25-ff7eb6?style=for-the-badge&labelColor=302D41) |
+| 🌐 HTML | Intermediário | ![80%](https://progress-bar.xyz/80?width=200&color=BB86FC) |
+| 🎨 CSS | Intermediário | ![70%](https://progress-bar.xyz/70?width=200&color=BB86FC) |
+| ⚡ JavaScript | Aprendendo | ![50%](https://progress-bar.xyz/50?width=200&color=43A047) |
+| ☕ Java | Iniciante | ![30%](https://progress-bar.xyz/30?width=200&color=FFA500) |
+| 🔧 C++ | Iniciante | ![20%](https://progress-bar.xyz/20?width=200&color=FFA500) |
+| 🏆 Fortnite | Pro Player 😎 | ![90%](https://progress-bar.xyz/90?width=200&color=ff7eb6) |
 
 </div>
 
@@ -286,13 +286,13 @@ const joaoGabriel = {
 
 | Meta | Progresso |
 |:-----|:---------:|
-| 🟢 **Dominar JavaScript moderno** | ![60%](https://img.shields.io/badge/60%25-BB86FC?style=for-the-badge&labelColor=302D41) |
-| 🌐 **Lançar meu site pessoal** | ![50%](https://img.shields.io/badge/50%25-BB86FC?style=for-the-badge&labelColor=302D41) |
-| 🌾 **Finalizar Agrinho 2026** | ![45%](https://img.shields.io/badge/45%25-43A047?style=for-the-badge&labelColor=302D41) |
-| 🚀 **Criar 5 projetos novos** | ![35%](https://img.shields.io/badge/35%25-43A047?style=for-the-badge&labelColor=302D41) |
-| ⚛️ **Aprender um framework (React?)** | ![25%](https://img.shields.io/badge/25%25-FFA500?style=for-the-badge&labelColor=302D41) |
-| 🤝 **Contribuir em projeto open source** | ![15%](https://img.shields.io/badge/15%25-FFA500?style=for-the-badge&labelColor=302D41) |
-| 🏆 **Mais Vitórias Reais no Fortnite** | ![45%](https://img.shields.io/badge/45%25-43A047?style=for-the-badge&labelColor=302D41) |
+| 🟢 **Dominar JavaScript moderno** | ![60%](https://progress-bar.xyz/60?width=200&color=BB86FC) |
+| 🌐 **Lançar meu site pessoal** | ![50%](https://progress-bar.xyz/50?width=200&color=BB86FC) |
+| 🌾 **Finalizar Agrinho 2026** | ![45%](https://progress-bar.xyz/45?width=200&color=43A047) |
+| 🚀 **Criar 5 projetos novos** | ![35%](https://progress-bar.xyz/35?width=200&color=43A047) |
+| ⚛️ **Aprender um framework (React?)** | ![25%](https://progress-bar.xyz/25?width=200&color=FFA500) |
+| 🤝 **Contribuir em projeto open source** | ![15%](https://progress-bar.xyz/15?width=200&color=FFA500) |
+| 🏆 **Mais Vitórias Reais no Fortnite** | ![45%](https://progress-bar.xyz/45?width=200&color=43A047) |
 
 </div>
 
