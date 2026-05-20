@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JAOG1V1%20|%20Em%20jornada%20pra%20virar%20dev&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
@@ -9,13 +9,42 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Domain+Expansion%3A+VS+Code+%E2%9A%94%EF%B8%8F;Plantando+bugs%2C+colhendo+features+%F0%9F%8C%B1;Movido+a+energ%C3%A9tico+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Domain+Expansion%3A+Coding+Realm+%E2%9C%A8;Otaku+%7C+Gamer+%7C+Dev+em+forma%C3%A7%C3%A3o" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAOG1V1&label=Visitas+no+perfil&color=BB86FC&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
 </p>
+
+---
+
+## 🚧 EM BREVE: Meu site pessoal está chegando! 🚧
+
+<div align="center">
+
+![Em construção](https://img.shields.io/badge/STATUS-EM%20CONSTRU%C3%87%C3%83O-BB86FC?style=for-the-badge&logo=github&logoColor=white)
+![Coming Soon](https://img.shields.io/badge/COMING-SOON-ff7eb6?style=for-the-badge)
+
+</div>
+
+> 🌐 Estou desenvolvendo um **site pessoal** onde você vai poder conhecer mais sobre mim de um jeito completo e interativo! Fica ligado porque vem coisa boa por aí! 🚀
+
+### 🌟 O que você vai encontrar no site:
+
+- 🙋‍♂️ **Sobre mim** — Minha história, idade, de onde venho e pra onde quero ir
+- ❤️ **O que eu gosto** — Animes, games, músicas, comidas e tudo que me move
+- 😅 **O que eu NÃO gosto** — Porque sinceridade também faz parte
+- 🏆 **Minhas conquistas** — Marcos e vitórias da minha trajetória como dev
+- 💼 **Meus projetos** — Tudo que já codei e o que está por vir
+- 🎮 **Hobbies & curiosidades** — O lado divertido do JAOG1V1
+- 📫 **Contato direto** — Pra trocar uma ideia, parceria ou só dar um oi
+
+<div align="center">
+
+### 👀 Fique de olho! Dá uma ⭐ no repo pra acompanhar o lançamento!
+
+</div>
 
 ---
 
