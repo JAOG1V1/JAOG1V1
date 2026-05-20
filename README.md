@@ -29,7 +29,7 @@ const joaoGabriel = {
   localizacao: "Douradina, PR — Brasil 🇧🇷",
   status: "Desenvolvedor em formação",
   foco: "Front-end e lógica de programação",
-  estudando: ["HTML", "CSS", "JavaScript", "Java", "C++"],
+  estudando: ["HTML", "CSS", "JavaScript", "Java", "C++", "PowerShell"],
   interesses: ["Desenvolvimento Web", "UI/UX", "Open Source", "Game Dev"],
   filosofia: "Errar é commit, aprender é push 🚀",
   metaAtual: "Construir meu primeiro site pessoal profissional"
@@ -37,7 +37,7 @@ const joaoGabriel = {
 ```
 
 Sou um desenvolvedor em formação focado em **desenvolvimento web front-end**.  
-Atualmente estudo HTML, CSS e JavaScript de forma aprofundada, enquanto exploro Java e C++ para fortalecer minha base em lógica e programação estruturada.  
+Atualmente estudo HTML, CSS e JavaScript de forma aprofundada, enquanto exploro Java, C++ e PowerShell para fortalecer minha base em lógica, programação estruturada e automação.  
 Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 ---
@@ -71,7 +71,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 #### ⚙️ Linguagens & Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,powershell&theme=dark" />
 </a>
 
 #### 🧰 Ferramentas do dia a dia
@@ -97,6 +97,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 | ⚡ JavaScript | Em desenvolvimento | ![50%](https://progress-bar.xyz/50?width=200&color=43A047) |
 | ☕ Java | Iniciante | ![30%](https://progress-bar.xyz/30?width=200&color=FFA500) |
 | 🔧 C++ | Iniciante | ![20%](https://progress-bar.xyz/20?width=200&color=FFA500) |
+| 💠 PowerShell | Iniciante | ![15%](https://progress-bar.xyz/15?width=200&color=FFA500) |
 
 </div>
 
@@ -212,7 +213,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 - 🌾 Finalizar o projeto **Agrinho 2026**
 - 🌐 Lançar meu **site pessoal** completo
 - 📱 Desenvolver projetos **responsivos e acessíveis**
-- 🧠 Aprofundar estudos em **Java** e **C++**
+- 🧠 Aprofundar estudos em **Java**, **C++** e **PowerShell**
 - ⚛️ Iniciar estudos em um **framework moderno** (React)
 - 🤝 Contribuir com projetos **open source**
 
