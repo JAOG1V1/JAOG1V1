@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAOG1V1&label=Visitas+no+perfil&color=BB86FC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41" />
-  <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41" />
+  <img src="https://img.shields.io/github/followers/JAOG1V1?label=Seguidores&style=for-the-badge&color=BB86FC&labelColor=302D41&logo=github&logoColor=white&cacheSeconds=3600" />
+  <img src="https://img.shields.io/github/stars/JAOG1V1?label=Estrelas&style=for-the-badge&color=ff7eb6&labelColor=302D41&logo=github&logoColor=white&cacheSeconds=3600" />
 </p>
 
 ## 🎴 Card de Apresentação
@@ -35,12 +35,15 @@ Olá! Me chamo João Gabriel, também conhecido como **JAOG1V1**. Sou um desenvo
 
 <div align="center">
 
-### 💻 Linguagens
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+#### 🎨 Front-end
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+</a>
+
+#### ⚙️ Linguagens & Programação
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,powershell&theme=dark" />
+</a>
 
 ### 🛠️ Ferramentas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -75,6 +78,10 @@ Olá! Me chamo João Gabriel, também conhecido como **JAOG1V1**. Sou um desenvo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAOG1V1&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=bb86fc&line=bb86fc&point=ff7eb6&area=true" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAOG1V1&theme=tokyonight" />
+
 </div>
 
 <br>
@@ -89,7 +96,7 @@ Olá! Me chamo João Gabriel, também conhecido como **JAOG1V1**. Sou um desenvo
 
 <br>
 
-## 🎮 Projetos em destaque
+## 📂 Projetos em destaque
 
 <div align="center">
 
