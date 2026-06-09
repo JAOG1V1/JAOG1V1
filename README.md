@@ -44,13 +44,14 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 ---
 
-## 🚧 Projeto em destaque — Agrinho 2026
+## 🌾 Projeto em destaque — Agrinho 2026
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+[![Status](https://img.shields.io/badge/Status-Finalizado-43A047?style=for-the-badge&labelColor=302D41)](https://github.com/JAOG1V1/agrinho-2026)
 [![Projeto](https://img.shields.io/badge/Projeto-Agrinho%202026-43A047?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
 [![Modalidade](https://img.shields.io/badge/Modalidade-Front--end-BB86FC?style=for-the-badge&labelColor=302D41)](https://www.sistemafaep.org.br/agrinho/)
+[![Repositório](https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAOG1V1/agrinho-2026)
 
 </div>
 
@@ -58,7 +59,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 > 🏆 **Modalidade:** Front-end / Página da Web  
 > 🛠️ **Stack:** `HTML5` · `CSS3` · `JavaScript`  
 > 🎨 **Pilares:** design responsivo, acessibilidade e conteúdo educativo  
-> 📌 **Status:** em desenvolvimento — repositório público em breve  
+> 📌 **Status:** finalizado ✅ — [repositório público disponível](https://github.com/JAOG1V1/agrinho-2026)  
 
 ---
 
@@ -110,6 +111,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 <div align="center">
 
+🌾 **Projeto Agrinho 2026 finalizado** — página web para o Concurso Agrinho 2026  
 🎯 **Primeiro site criado do zero** — *O Melhor Bolo de Cenoura*  
 🎮 **Primeiro projeto em JavaScript** — *RacingGame*  
 🏜️ **Projeto interativo** — *Mistérios do Sertão*  
@@ -177,10 +179,10 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
   <tr>
     <td align="center" width="420">
       <h3>🌾 Agrinho 2026</h3>
-      <p><i>Em desenvolvimento</i></p>
+      <p><i>Finalizado ✅</i></p>
       <p>Página web para o <a href="https://www.sistemafaep.org.br/agrinho/">Concurso Agrinho 2026</a><br/>(Sistema FAEP/SENAR-PR)</p>
       <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></p>
-      <p><img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-FFA500?style=for-the-badge&labelColor=302D41" /></p>
+      <p><a href="https://github.com/JAOG1V1/agrinho-2026"><img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
     </td>
     <td align="center" width="420">
       <h3>🏜️ Mistérios do Sertão</h3>
@@ -221,7 +223,6 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 ### 🚀 Próximos passos
 
-- 🌾 Finalizar o projeto **Agrinho 2026**
 - 🌐 Lançar meu **site pessoal** completo
 - 📱 Desenvolver projetos **responsivos e acessíveis**
 - 🧠 Aprofundar estudos em **Java**, **C++**, **Python** e **PowerShell**
@@ -238,7 +239,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 |:-----|:---------:|
 | 🟢 Dominar JavaScript moderno | ![60%](https://progress-bar.xyz/60?width=200&color=BB86FC) |
 | 🌐 Lançar site pessoal | ![50%](https://progress-bar.xyz/50?width=200&color=BB86FC) |
-| 🌾 Finalizar Agrinho 2026 | ![45%](https://progress-bar.xyz/45?width=200&color=43A047) |
+| 🌾 Finalizar Agrinho 2026 ✅ | ![100%](https://progress-bar.xyz/100?width=200&color=43A047) |
 | 🚀 Criar 5 novos projetos | ![35%](https://progress-bar.xyz/35?width=200&color=43A047) |
 | ⚛️ Aprender um framework (React) | ![25%](https://progress-bar.xyz/25?width=200&color=FFA500) |
 | 🤝 Contribuir em projeto open source | ![15%](https://progress-bar.xyz/15?width=200&color=FFA500) |
