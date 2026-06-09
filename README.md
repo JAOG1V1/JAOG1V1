@@ -155,7 +155,7 @@ Acredito em **consistência diária**, código limpo e aprendizado contínuo.
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=JAOG1V1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JAOG1V1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=0)
 
 </div>
 
